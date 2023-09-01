@@ -3,7 +3,7 @@
 	// import '../app.postcss';
 	// import './styles.css';
 	// import '../scss/style.css';
-	// import Footer from './components/Footer.svelte';
+	import Footer from './components/Footer.svelte';
 	// import List from './components/List.svelte';
 </script>
 
@@ -15,9 +15,9 @@
 	</main>
 
 	
-	<!-- <Footer>
+	<Footer>
 		<slot />
-	</Footer> -->
+	</Footer>
 </div>
 
 <style>
