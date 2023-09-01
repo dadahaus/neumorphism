@@ -4,12 +4,16 @@
 	// import './styles.css';
 	// import '../scss/style.css';
 	import Footer from './components/Footer.svelte';
-	// import List from './components/List.svelte';
+	import List from './components/List.svelte';
+	// import EighthNav from './components/Eighth_nav.svelte';
+	import Nav from './components/Nav.svelte';
 </script>
 
 <div class="app">
 
-<!-- <List/> -->
+	<!-- <Eighth_nav /> -->
+	<!-- <List/> -->
+	<Nav></Nav>
 	<main>
 		<slot />
 	</main>

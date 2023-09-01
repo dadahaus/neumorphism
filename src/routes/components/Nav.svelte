@@ -4,10 +4,10 @@
 
 <nav>
 	<ul>
-    <div class="left_nav">
+    <!-- <div class="left_nav">
       <a href="/"> <img src="src/assets/dribbble.svg" alt="logo" srcset=""> </a>
 
-    </div>
+    </div> -->
 		<div class="center_nav">
       <a href="http://"><li>menu</li></a>
       <a href="http://"><li>work</li></a>
